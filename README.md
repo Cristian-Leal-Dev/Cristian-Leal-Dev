@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor web front-end dando os primeiros passos na carreira de tecnologia, meu foco é me especializar para me tornar um Desenvolvedor Full-Stack Javascript.
 
-🎓 Atualmente, estou no 1° período do Curso Superior de Tecnologia em Desenvolvimento Web pela Universidade Norte do Paraná (Unopar).
+🎓 Atualmente, estou no 2° período do Curso Superior de Tecnologia em Desenvolvimento Web pela Universidade Norte do Paraná (Unopar).
 
 💻 Tenho certificações de programação pela Alura e Programming Hub, e também estou cursando pela Rocketseat.
 
